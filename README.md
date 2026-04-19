@@ -101,6 +101,7 @@ The horizontal scanning logic (dead candidate detection, conflict diagnostics, e
 *Leo ([@runes_leo](https://x.com/runes_leo)) — AI × Crypto independent builder. Trading on [Polymarket](https://polymarket.com/?via=runes-leo&r=runesleo&utm_source=github&utm_content=claude-skill-audit), building data and trading systems with Claude Code and Codex.*
 
 *[leolabs.me](https://leolabs.me) — writing · community · open-source tools · indie projects · all platforms.*
+
 *[X Subscription](https://x.com/runes_leo/creator-subscriptions/subscribe) — paid content weekly, or just buy me a coffee 😁*
 
 *Learn in public, Build in public.*
