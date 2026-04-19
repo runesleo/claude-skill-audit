@@ -88,13 +88,12 @@ git clone https://github.com/runesleo/claude-skill-audit ~/.claude/skills/skill-
 
 ## 关于作者
 
-Leo ([@runes_leo](https://x.com/runes_leo))，AI × Crypto 独立构建者。
+*关于作者：Leo ([@runes_leo](https://x.com/runes_leo))，AI x Crypto 独立构建者。在 [Polymarket](https://polymarket.com/?via=runes-leo&r=runesleo&utm_source=github&utm_content=claude-skill-audit) 做量化交易，用 Claude Code 和 Codex 搭建数据分析与自动化交易系统。*
 
-用 Claude Code 做两件事：
-- **预测市场量化** — 在 [Polymarket](https://polymarket.com/?via=runes-leo&r=runesleo&utm_source=github&utm_content=claude-skill-audit) 跑做市和量化策略
-- **内容自动化** — 包括这个 repo 在内的工具链，让一个人也能跑出团队的产能
+*[leolabs.me](https://leolabs.me)：开源工具 · 独立项目 · 文章 · 全平台账号 · 社群*
+*[X 订阅](https://x.com/runes_leo/subscribe)：付费内容周更，或请我喝杯咖啡 😁*
 
-更多实战：[leolabs.me](https://leolabs.me)
+*Learn in public, Build in public.*
 
 ---
 
