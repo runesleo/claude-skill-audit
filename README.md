@@ -1,6 +1,6 @@
 # claude-skill-audit
 
-English · [中文](README.zh.md)
+English · [中文](README.zh-CN.md)
 
 > A health check for your Claude Code skill tree. Find what's actually used, what's dead, what's stepping on each other, and which iron-rule skills you wrote but never fired.
 
