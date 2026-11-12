@@ -1,4 +1,9 @@
 .DS_Store
 *.log
+# This checked-in log is a tiny, explicitly synthetic example.
+!cli/examples/claude.log
 .env
 node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
